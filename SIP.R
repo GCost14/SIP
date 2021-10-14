@@ -14,7 +14,7 @@ str(SIP)
 
 names(entrevistada) #Que es entrevistada?
 
-
+zdjkasbjksdbjkdsbdsj
 #selecciono las variables con las que quiero trabajar y asigno nombres
 datos <- SIP %>% 
   select(edadm, alturam, pesom, imc, imc_cat, 
